@@ -1,0 +1,8 @@
+name: Taggame
+version: 0.9.3β
+main: ga.ganma.taggame.taggame.Taggame
+api-version: 1.15
+commands:
+  tag:
+    description: tag games plugin commands.
+    usage: please type /tag help.
