@@ -3,10 +3,10 @@
   <groupId>ga.ganma</groupId>
   <artifactId>taggame</artifactId>
   <versioning>
-    <release>0.9.3β</release>
+    <release>0.9.4β</release>
     <versions>
-      <version>0.9.3β</version>
+      <version>0.9.4β</version>
     </versions>
-    <lastUpdated>20200531113813</lastUpdated>
+    <lastUpdated>20200620132417</lastUpdated>
   </versioning>
 </metadata>
