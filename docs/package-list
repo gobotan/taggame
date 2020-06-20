@@ -1,0 +1,11 @@
+ga.ganma.taggame
+ga.ganma.taggame.command
+ga.ganma.taggame.command.subcommands
+ga.ganma.taggame.item
+ga.ganma.taggame.item.items.agreitem
+ga.ganma.taggame.item.items.commonItem
+ga.ganma.taggame.item.items.runwayitem
+ga.ganma.taggame.listener
+ga.ganma.taggame.mainmanager
+ga.ganma.taggame.myException
+ga.ganma.taggame.scoreboard
